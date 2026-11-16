@@ -1,0 +1,6 @@
+{
+  "name": "CODE AI — Yapay Zeka Web Sitesi Oluşturucu",
+  "description": "Sohbet ederek dakikalar içinde canlı web sitesi tasarlayın, önizleyin ve temiz HTML kodunu teslim alın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
